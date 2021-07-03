@@ -1,3 +1,4 @@
+//Falta implementar exceptions personalizadas 
 export interface IErrorEmail {
     name: string , 
     message: string,
